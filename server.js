@@ -14,6 +14,8 @@ app.listen(PORT, function(){
     console.log(`Listening on port ${PORT}`)
 })
 
+//assets
+app.use(express.static('public'))
 // Tells the express what to respond on opening the PORT
 app.get('/',function(request, response){
     response.render('home')

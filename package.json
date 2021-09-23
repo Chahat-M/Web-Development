@@ -6,7 +6,7 @@
   "repository": "https://github.com/Chahat-M/Web-Development.git",
   "author": "Chahat Mittal, Shristy Kashyap",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "dev": "nodemon server.js",
     "serve": "node server.js"
   },
