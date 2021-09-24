@@ -16,12 +16,18 @@ app.listen(PORT, function(){
 
 //assets
 app.use(express.static('public'))
-// Tells the express what to respond on opening the PORT
-app.get('/',function(request, response){
-    response.render('home')
-})
 
 app.use(expressLayout)  // Tells the express which layout to use
 app.set('views', path.join(__dirname,'/resources/views')) // Providing location of Template files
 app.set('view engine','ejs') // Setting Template engine
 
+// Tells the express what to respond on opening the PORT
+// For home page
+app.get('/',function(request, response){
+    response.render('home')
+})
+
+// For cart page
+app.get('/cart',function(request,response){
+    response.render('customers/cart')
+})
