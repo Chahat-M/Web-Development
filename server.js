@@ -31,3 +31,13 @@ app.get('/',function(request, response){
 app.get('/cart',function(request,response){
     response.render('customers/cart')
 })
+
+//For login page
+app.get('/login',function(request,response){
+    response.render('auth/login')
+})
+
+//For register page
+app.get('/register',function(request,response){
+    response.render('auth/register')
+})
