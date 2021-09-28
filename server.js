@@ -21,23 +21,5 @@ app.use(expressLayout)  // Tells the express which layout to use
 app.set('views', path.join(__dirname,'/resources/views')) // Providing location of Template files
 app.set('view engine','ejs') // Setting Template engine
 
-// Tells the express what to respond on opening the PORT
-// For home page
-app.get('/',function(request, response){
-    response.render('home')
-})
+require('./routes/web')(app)
 
-// For cart page
-app.get('/cart',function(request,response){
-    response.render('customers/cart')
-})
-
-//For login page
-app.get('/login',function(request,response){
-    response.render('auth/login')
-})
-
-//For register page
-app.get('/register',function(request,response){
-    response.render('auth/register')
-})
