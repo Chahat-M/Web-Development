@@ -10,8 +10,9 @@ Tailwind css
 This is a simple bakery website where you can select from the given menu, add to the cart and then place the order.
 
 
-## Setup
-_Steps for setting things up, particularly if for a CMS_
+## Website Images
+![website cake](https://user-images.githubusercontent.com/77338956/135314887-65d5b156-9807-4ede-818b-8444179eee74.jpeg)
+
 
 ## Front-end Compiling
 _Steps for front-end compiling_
