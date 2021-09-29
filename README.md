@@ -23,31 +23,10 @@ This is a simple bakery website where you can select from the given menu, add to
 ### Login page
 ![image](https://user-images.githubusercontent.com/77338956/135315741-9b5920ef-6776-4fd6-8ae8-4b96a428fc31.png)
 
+### Registration page
+![image](https://user-images.githubusercontent.com/77338956/135315936-1e068ddd-6f98-4297-81d4-5df8726f8778.png)
 
 
-## Front-end Compiling
-_Steps for front-end compiling_
-
-## Files & directories
-_List of key files and directories, how they're organized and used, etc._
-
-## Hacks/Kludges
-
-1. **Hack/kludge name**
-    Short description of what was done and why, including any reference links
-
-    - **When:** date
-    - **File(s):**
-
-      - Line #N in `[path to file]`
-      - Line #N in `[path to file]`
-          
-    - **Database:** Note any changes to the database. If none, delete this line.
 
 
-## Design Notes
-_If needed, pertinent design notes_
 
-
-## Credits
-_Kinda obvious, no? ;)_
