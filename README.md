@@ -1,4 +1,4 @@
-#Lil'Bakery Website
+# Lil'Bakery Website
 
 ## Things used
 Express js
@@ -7,7 +7,7 @@ Mongo db
 Tailwind css
 
 ## Introduction
-_Pertinent high-level information about the project_
+This is a simple bakery website where you can select from the given menu, add to the cart and then place the order.
 
 
 ## Setup
