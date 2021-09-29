@@ -11,7 +11,7 @@ This is a simple bakery website where you can select from the given menu, add to
 
 
 ## Website Images
-![website cake](https://user-images.githubusercontent.com/77338956/135314887-65d5b156-9807-4ede-818b-8444179eee74.jpeg)
+![website cake 3](https://user-images.githubusercontent.com/77338956/135315178-d00b4ae9-925e-4b41-9ceb-948b645550ce.jpeg)
 
 
 ## Front-end Compiling
